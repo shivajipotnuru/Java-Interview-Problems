@@ -11,3 +11,6 @@ Place: Bhilwara, Rajasthan, India
 
 * [parzuko](https://github.com/parzuko)
 * [Prakhyat Karri](https://github.com/prakhyatkarri)
+
+Name: ADITI ROY (https://github.com/Aditi-Roy-coder)
+Place: Siliguri, West Bengal
