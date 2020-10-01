@@ -7,8 +7,6 @@ Output: [1,3,12,0,0]
 
 */
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
 class MoveZeroes{
