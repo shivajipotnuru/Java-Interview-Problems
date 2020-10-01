@@ -11,3 +11,4 @@ Place: Bhilwara, Rajasthan, India
 
 * [parzuko](https://github.com/parzuko)
 * [Prakhyat Karri](https://github.com/prakhyatkarri)
+* [Deepanshu Jindal](https://github.com/ultimatecoder2)
