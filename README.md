@@ -36,7 +36,7 @@ About: Short Intro (Optional)
 ```
 ## Support
 
-Check [Contribution](/CONTRIBUTION.md) Guide Before Contribution.
+Check [Contribution](/Contribution.md) Guide Before Contribution.
 
 ## Instructions:
 
