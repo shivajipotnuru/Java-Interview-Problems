@@ -4,3 +4,6 @@
 Name: [Prakhyat Karri](https://github.com/prakhyatkarri)
 Place: Atlanta, GA
 
+Name: [Harsh Udai](https://github.com/HarshUdai)
+Place: Bhilwara, Rajasthan, India
+
