@@ -10,3 +10,4 @@ def fun(n):
         return n+fun(n-1)
 
 fun(5)
+# Contributed By: Harsh Udai
