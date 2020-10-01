@@ -10,3 +10,4 @@ def fun(n):
         return n%10+fun(n//10)
 
 fun(9999)
+# Contributed By: Harsh Udai
