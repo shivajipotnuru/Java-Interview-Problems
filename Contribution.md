@@ -7,4 +7,4 @@
 * [Prakhyat Karri](https://github.com/prakhyatkarri)
 * [ADITI ROY ](https://github.com/Aditi-Roy-coder)
 * [Deepanshu Jindal](https://github.com/ultimatecoder2)
-
+* [Gabriel Ribeiro](https://github.com/gabrielrmn)
